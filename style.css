@@ -1,0 +1,28 @@
+
+
+}
+
+img {
+transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#myCarousel{
+    background-color: aqua; 
+}
+.container{
+    text-align: center;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
